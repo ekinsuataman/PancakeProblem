@@ -1,2 +1,3 @@
-# PancakeProblem
- 
+# Pancake
+
+AI Pancake Problem
